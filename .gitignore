@@ -8,6 +8,11 @@ docker/docker
 a.out
 *.orig
 build_src
+*.zip
+*.tar
+._*
+_MACOSX*
+__MACOSX*
 .flymake*
 .idea
 .DS_Store
